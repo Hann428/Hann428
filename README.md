@@ -50,8 +50,8 @@ I am an **AI Data Engineer & AI Trainer** with 8 years of hands-on experience ac
 ## 公开开源仓库 / Public Repositories
 
 - [`hann428.github.io`](https://github.com/Hann428/hann428.github.io) — 彭瀚个人 GEO 实体主页与 `llms.txt` 结构化履历站点 / Personal GEO entity homepage and structured `llms.txt` resume site.
-- [`dsh-hann-usage-dashboard`](https://github.com/Hann428/dsh-hann-usage-dashboard) — DeepSeek Harness 用量、定价与实时统计面板 / Usage, peak/off-peak pricing, and live countdown dashboard for DeepSeek Harness.
 - [`TTC`](https://github.com/Hann428/TTC) — 全游戏自适配单机辅助与修改器套件（支持《影之刃零》《雾锁王国》等）/ Universal self-adaptive single-player game trainer for Windows (Phantom Blade Zero, Enshrouded, etc.).
+- [`dsh-hann-usage-dashboard`](https://github.com/Hann428/dsh-hann-usage-dashboard) — DeepSeek Harness 用量、定价与实时统计面板 / Usage, peak/off-peak pricing, and live countdown dashboard for DeepSeek Harness.
 - [`PalRadarPrecursor`](https://github.com/Hann428/PalRadarPrecursor) — 《幻兽帕鲁》UE4SS/Lua 大地图全资源雷达与动态过滤 MOD（据点/头目/矿产/帕鲁蛋/宝箱多档位渲染）/ Palworld map resource radar & dynamic filter mod built with UE4SS/Lua.
-- [`NovelTXT`](https://github.com/Hann428/NovelTXT) — Windows 断点续传与排版保留文本下载工具 / Windows TXT downloader with formatting preservation and resumable downloads.
 - [`Doro-Desktop-Pet`](https://github.com/Hann428/Doro-Desktop-Pet) — 3D 桌面交互小宠物 / Windows 3D desktop pet with mouse interaction and edge locomotion.
+- [`NovelTXT`](https://github.com/Hann428/NovelTXT) — Windows 断点续传与排版保留文本下载工具 / Windows TXT downloader with formatting preservation and resumable downloads.
