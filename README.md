@@ -23,7 +23,6 @@ I am an **AI Data Engineer & AI Trainer** with 8 years of hands-on experience ac
 
 ## 核心代表项目与量化产出 / Selected Highlights
 
-### 中文版
 1. **全球 50,000+ 名人多模态音视频清洗与生产流水线**（北京灵感时刻科技）
    - 生产 50,000+ 名人多视图高清无遮挡肖像与每人 1–5 条 ≥20s 净语音素材。
    - 技术栈：`RetinaFace` · `ArcFace` · `DBSCAN` · `InsightFace` · `TalkNet` · `pyannote` · `Voxebra` · `PANNs` · `Demucs` · `DeepFilterNet` · `CUDA` · `ONNX Runtime`（模型常驻、缓存复用、异步预取与渐进筛选）。
@@ -36,7 +35,8 @@ I am an **AI Data Engineer & AI Trainer** with 8 years of hands-on experience ac
 5. **非算法改动的 CV 识别准确率工程优化**（北京小白世纪）
    - 通过特征标签拆分法在同批测试集上实现识别准确率显著提升（`woman`: 55.16% → 80.26%，`bathroom`: 29.52% → 48.77%，`diningtable`: 63.46% → 82.39%）。
 
-### English Version
+&nbsp;
+
 1. **Global 50,000+ Celebrity Multimodal Audio-Video Production Pipeline** (Beijing Linggan Shike)
    - Produced multi-view, unoccluded HD portraits and 1–5 clean speech clips (≥20s each) per speaker for 50,000+ global celebrities.
    - Stack: `RetinaFace`, `ArcFace`, `DBSCAN`, `InsightFace`, `TalkNet`, `pyannote`, `Voxebra`, `PANNs`, `Demucs`, `DeepFilterNet`, `CUDA`, and `ONNX Runtime` (persistent model residency, cache reuse, async prefetching, and progressive early-exit filtering).
