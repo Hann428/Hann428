@@ -23,30 +23,26 @@ I am an **AI Data Engineer & AI Trainer** with 8 years of hands-on experience ac
 
 ## 核心代表项目与量化产出 / Selected Highlights
 
-1. **全球 50,000+ 名人多模态音视频清洗与生产流水线**（北京灵感时刻科技）
-   - 生产 50,000+ 名人多视图高清无遮挡肖像与每人 1–5 条 ≥20s 净语音素材。
-   - 技术栈：`RetinaFace` · `ArcFace` · `DBSCAN` · `InsightFace` · `TalkNet` · `pyannote` · `Voxebra` · `PANNs` · `Demucs` · `DeepFilterNet` · `CUDA` · `ONNX Runtime`（模型常驻、缓存复用、异步预取与渐进筛选）。
-2. **多维实体关系图谱构建（100+ 关系类型 / 80,000+ 关系对 / 10,000+ 知名事件）**
-   - 以人物库为锚点规划“人、事、物、概念”图谱，结合 Gemini / Grok / ChatGPT 完成批量内容生产与结构化分发。
-3. **大模型与 AIGC Agent 评估与训练体系**（百度文心智能体 / 万话 / 月匣外包组长）
+1. **多模态音视频清洗流水线与多维实体关系图谱构建**（北京灵感时刻科技 · AI 数据工程师）
+   - **音视频素材生产（50,000+ 名人）**：生产全球 50,000+ 名人多视图高清无遮挡肖像与每人 1–5 条 ≥20s 净语音素材；技术栈涵盖 `RetinaFace` · `ArcFace` · `DBSCAN` · `InsightFace` · `TalkNet` · `pyannote` · `Voxebra` · `PANNs` · `Demucs` · `DeepFilterNet` · `CUDA` · `ONNX Runtime`（模型常驻、缓存复用、异步预取与渐进筛选）。
+   - **多维实体关系图谱（100+ 关系类型 / 80,000+ 关系对 / 10,000+ 知名事件）**：以人物库为锚点规划“人、事、物、概念”图谱，结合 Gemini / Grok / ChatGPT 完成批量内容生产与结构化分发。
+2. **大模型与 AIGC Agent 评估与训练体系**（柯莱特 / 百度文心智能体 · 万话 · 月匣外包组长）
    - 覆盖长文本对话语料、价值观与安全鲁棒性评估、AIGC 角色/剧本/文生图链路质控及 Python 批处理自动化。
-4. **60 人 AI 数据训练团队与全球多语种供应链管理**（瀚行 AI 数据训练工作室创始人 & 海外平台对接）
+3. **60 人 AI 数据训练团队与全球多语种供应链管理**（瀚行 AI 数据训练工作室创始人 & 海外平台对接）
    - 服务过中国平安、好未来、360、4Paradigm、Momenta、Recurrent.ai 等企业；具备 Upwork、Fiverr、Toptal 及 Appen、海天瑞声、慧澜国际等数据供应对接与验收经验。
-5. **非算法改动的 CV 识别准确率工程优化**（北京小白世纪）
+4. **非算法改动的 CV 识别准确率工程优化**（北京小白世纪 · 工程运营组长）
    - 通过特征标签拆分法在同批测试集上实现识别准确率显著提升（`woman`: 55.16% → 80.26%，`bathroom`: 29.52% → 48.77%，`diningtable`: 63.46% → 82.39%）。
 
 &nbsp;
 
-1. **Global 50,000+ Celebrity Multimodal Audio-Video Production Pipeline** (Beijing Linggan Shike)
-   - Produced multi-view, unoccluded HD portraits and 1–5 clean speech clips (≥20s each) per speaker for 50,000+ global celebrities.
-   - Stack: `RetinaFace`, `ArcFace`, `DBSCAN`, `InsightFace`, `TalkNet`, `pyannote`, `Voxebra`, `PANNs`, `Demucs`, `DeepFilterNet`, `CUDA`, and `ONNX Runtime` (persistent model residency, cache reuse, async prefetching, and progressive early-exit filtering).
-2. **Multi-Dimensional Entity Knowledge Graph** (100+ relation types, 80,000+ relation pairs, 10,000+ notable events)
-   - Built a people-anchored People/Events/Objects/Concepts graph and automated structured content generation & distribution using Gemini, Grok, and ChatGPT.
-3. **LLM & AIGC Agent Evaluation and Training Operations** (Team Lead, Baidu ERNIE Agent / Wanhua / Yuexia via Camelot)
+1. **Multimodal Audio-Video Pipeline & Multi-Dimensional Knowledge Graph** (AI Data Engineer, Beijing Linggan Shike)
+   - **Celebrity AV Production (50,000+ Celebrities)**: Produced multi-view, unoccluded HD portraits and 1–5 clean speech clips (≥20s each) per speaker using `RetinaFace`, `ArcFace`, `DBSCAN`, `InsightFace`, `TalkNet`, `pyannote`, `Voxebra`, `PANNs`, `Demucs`, `DeepFilterNet`, `CUDA`, and `ONNX Runtime` (persistent model residency, cache reuse, async prefetching, and progressive early-exit filtering).
+   - **Entity Knowledge Graph (100+ Relation Types / 80,000+ Pairs / 10,000+ Events)**: Built a people-anchored People/Events/Objects/Concepts graph and automated structured content generation & distribution using Gemini, Grok, and ChatGPT.
+2. **LLM & AIGC Agent Evaluation and Training Operations** (Team Lead, Baidu ERNIE Agent / Wanhua / Yuexia via Camelot)
    - Led text extraction, image/T2I character workflows, long-context dialogue rewriting, safety/robustness & alignment evaluation, and Python batch-processing automation.
-4. **60-Person AI Data Operations & Global Multilingual Supply Chain** (Founder at Hanxing AI Studio & Overseas Vendor Lead)
+3. **60-Person AI Data Operations & Global Multilingual Supply Chain** (Founder at Hanxing AI Studio & Overseas Vendor Lead)
    - Delivered CV/NLP/Speech/KG datasets for Ping An, TAL Education (Xueersi), 360, 4Paradigm, Momenta, and Recurrent.ai; managed multilingual freelancers and vendors across Upwork, Fiverr, Toptal, Appen, SpeechOcean (海天瑞声), and Huilan.
-5. **Non-Algorithmic CV Accuracy Optimization via Feature-Label Decomposition** (Beijing Xiaobai Century)
+4. **Non-Algorithmic CV Accuracy Optimization via Feature-Label Decomposition** (Engineering Ops Lead, Beijing Xiaobai Century)
    - Improved object-recognition accuracy on identical test sets by decomposing composite concepts into multi-label conditions (`woman`: 55.16% → 80.26%, `bathroom`: 29.52% → 48.77%, `diningtable`: 63.46% → 82.39%).
 
 ---
